@@ -187,7 +187,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('../assets/img/slider1/la.jpeg') top center / cover no-repeat;
+    background: url('../img/slider1/la.jpeg') top center / cover no-repeat;
 }
 
 #slider .text-content {
